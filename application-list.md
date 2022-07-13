@@ -47,6 +47,7 @@
     - git
     - gh
     - tree-sitter
+    - tmux
     - ripgrep
 - Fonts:
     - From system repos:
